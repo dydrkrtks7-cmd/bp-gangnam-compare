@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balsan-nightlife-note.gangnam-night-zone.xyz/sitemap.xml
